@@ -125,3 +125,49 @@ body {
   padding: 15px 0;
   margin-top: 40px;
 }
+
+.info-contacto {
+  margin-top: 40px;
+  padding-top: 30px;
+  border-top: 1px solid #ddd;
+  color: #333;
+}
+
+.info-contacto h2 {
+  font-size: 1.8rem;
+  color: #003366; /* azul navbar */
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.info-contacto p {
+  font-size: 1rem;
+  margin: 8px 0;
+  color: #444;
+}
+
+.redes-sociales {
+  margin-top: 15px;
+  display: flex;
+  gap: 15px;
+}
+
+.redes-sociales a {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+}
+
+.redes-sociales img {
+  width: 100%;
+  height: auto;
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+.redes-sociales a:hover img {
+  filter: none;
+  transform: scale(1.1);
+  transition: filter 0.3s ease, transform 0.3s ease;
+}
+
