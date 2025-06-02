@@ -34,3 +34,18 @@ Tecnologías utilizadas
 -Git
 -GitHub
 -GitHub Pages
+
+## Coevaluación del equipo
+
+A continuación se presenta la coevaluación del equipo con base en la participación, cumplimiento y colaboración durante el desarrollo del proyecto:
+
+| Nombre completo                    | Participación general | Comunicación     | Responsabilidad     | Puntaje final (de 10) |
+|------------------------------------|------------------------|------------------|----------------------|------------------------|
+| Trujillo Gómez Cristian Ronaldo    | Alta                   | Excelente        | Muy responsable      | 10                     |
+| Jiménez Velasco Gerardo            | Alta                   | Muy buena        | Muy responsable      | 10                     |
+| Azavala Ovando Noemisabel          | Alta                   | Excelente        | Muy responsable      | 10                     |
+
+**Notas:**
+- Todos los integrantes cumplieron con su parte del trabajo.
+- Se respetaron las buenas prácticas de Git y GitHub.
+- La colaboración fue constante y efectiva a lo largo del proyecto.
