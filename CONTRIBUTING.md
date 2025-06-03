@@ -20,8 +20,6 @@ Este documento tiene como objetivo establecer una guía clara y ordenada para to
 
 6. Espera la **revisión y aprobación** de al menos un compañero antes de hacer merge.
 
----
-
 ## Reglas para nombrar ramas
 
 Para mantener un flujo de trabajo claro y ordenado:
@@ -37,7 +35,7 @@ Para mantener un flujo de trabajo claro y ordenado:
 
 * Evita nombres como `rama1`, `nueva-rama`, `test`, etc.
 
-## 💬 Reglas para escribir mensajes de commit
+## Reglas para escribir mensajes de commit
 
 Los mensajes de commit deben ser **claros, concisos y en infinitivo**. Esto permite entender rápidamente qué cambio se hizo.
 
@@ -55,9 +53,7 @@ Los mensajes de commit deben ser **claros, concisos y en infinitivo**. Esto perm
 * `Trabajo final`
 * `asd`
 
----
-
-## 🔀 Uso de Pull Requests (PR)
+## Uso de Pull Requests (PR)
 
 * **Siempre crea un PR desde tu rama hacia `main`.**
 * Antes de hacer merge:
@@ -66,9 +62,8 @@ Los mensajes de commit deben ser **claros, concisos y en infinitivo**. Esto perm
   * Si hay comentarios o sugerencias, **haz los cambios antes del merge.**
   * Si existe un **conflicto**, resuélvelo de manera manual y documenta el proceso en `CONFLICT-LOG.md`.
 
----
 
-## ✅ Checklist antes de hacer merge
+## Checklist antes de hacer merge
 
 * [ ] Probé que los cambios funcionan.
 * [ ] Mi código no genera errores.
