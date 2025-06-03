@@ -1,3 +1,12 @@
-# Registro de Conflictos
+# CONFLICT-LOG.md
 
-Aquí se documentarán los conflictos que ocurran durante el desarrollo y cómo fueron resueltos.
+## 🔥 Conflicto resuelto: index.html
+
+### 🧾 Descripción
+
+Se generó un conflicto al hacer merge entre las ramas `ramacristian` y `main`. Ambas modificaron el archivo `index.html`.
+
+### 📌 Línea en conflicto
+
+```html
+<li><a href="contacto.html">...</a></li>
